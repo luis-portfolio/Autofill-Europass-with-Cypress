@@ -1,4 +1,4 @@
-# I used Cypress to auto-populate Europass with my skills from a javascript array.
+# I used Cypress to automatically populate Europass with my skills.
 
 >  If you need, feel free to use this software
 
